@@ -83,7 +83,7 @@
   /*===== Search bar js end ======*/
   
   /*=== Text Animation ===*/
-  var words = ['full stack developer' ],
+  var words = ['Full stack developer' ],
   part,
   i = 0,
   offset = 0,
